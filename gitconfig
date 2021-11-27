@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gael.tardy3@gmail.com
+	name = gael tardy
